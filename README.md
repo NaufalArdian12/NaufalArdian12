@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **oranji**
 
-- 👨‍💻 All of my projects are available at [bento.me/nopall](bento.me/nopall)
+- 👨‍💻 All of my projects are available at <a href="bentp.me/nopall">[bento.me/nopall](bento.me/nopall)</a>
 
 - 📫 How to reach me **naufalportofolio12@gmail.com**
 
