@@ -10,7 +10,7 @@
 ### 🙋‍♂️ About Me
 ```python
 Naufal Ardian = {
-  "role": "Full Stack Developer
+  "role": "Full Stack Developer"
   "focus": "Building intelligent systems that solve real-world problems",
   "status": "Open for collaboration"
 }
